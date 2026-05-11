@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there!
 
-<!--
-**marujpree/marujpree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
-Here are some ideas to get you started:
+I'm **Santiago**, a software engineer, student, and builder.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a software developer & Computer Science Student at **[@University of Houston](https://www.uh.edu/)**.
+
+When I am not programming, you can find me watching soccer, working on cars, and automating things that probably didn't need to be automated.
+
+**Find me on GitHub and LinkedIn**
+
+![Profile Views](https://komarev.com/ghpvc/?username=marujpree&color=0969da&style=flat&label=Profile+Views)
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-reyes)
+
