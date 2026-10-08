@@ -8,5 +8,5 @@ When I am not programming, you can find me watching/playing soccer, working on c
 
 **Find me on GitHub and LinkedIn**
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-reyes)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santiagoreyes1)
 
