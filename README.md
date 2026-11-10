@@ -6,7 +6,7 @@ I'm **Santiago**, a software developer, builder & Computer Science Student at **
 
 When I am not programming, you can find me watching/playing soccer, working on cars, and automating things that probably didn't need to be automated.
 
-**Find me on GitHub and LinkedIn**
+**Find me on LinkedIn**
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santiagoreyes1)
 
